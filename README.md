@@ -98,4 +98,5 @@ success: True
 partial: True
 message: Found databases but unable to enumerate tables. The database might be empty or protected.
 databases_found: ['acuart', 'information_schema']
-![kroke](https://github.com/user-attachments/assets/745f65f5-ae0b-46fd-909c-fc64228fa61d)
+
+![kroke](https://github.com/user-attachments/assets/a3677ef5-d314-4330-9ea2-4bb03987dcb1)
