@@ -9,7 +9,7 @@ def print_banner():
 
   SQL Injection Testing Assistant powered by AI
   Helping you find and exploit SQL injection vulnerabilities
-  Author: @atiilla
+  Author: kroketon
     """
     print(banner)
 def print_info(message, **kwargs):
